@@ -192,23 +192,14 @@ mud_ii.py
 أدخل IP أو نطاق: 8.8.8.8
 
   🌐  عنوان IP          8.8.8.8
-  
   🏳️  الدولة            United States (US)
-  
   🏙️  المنطقة           California
-  
   🏘️  المدينة           Mountain View
-  
   📮  الرمز البريدي     94043
-  
   📍  الإحداثيات        37.4056, -122.0775
-  
   🕐  المنطقة الزمنية   America/Los_Angeles
-  
   📡  مزود الخدمة       Google LLC
-  
   🏢  المنظمة           Google LLC
-  
   🔢  رقم AS            AS15169 Google LLC
 
   🗺️  خرائط Google:
