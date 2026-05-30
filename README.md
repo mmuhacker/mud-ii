@@ -192,19 +192,27 @@ mud_ii.py
 أدخل IP أو نطاق: 8.8.8.8
 
   🌐  عنوان IP          8.8.8.8
+  
   🏳️  الدولة            United States (US)
+  
   🏙️  المنطقة           California
+  
   🏘️  المدينة           Mountain View
+  
   📮  الرمز البريدي     94043
+  
   📍  الإحداثيات        37.4056, -122.0775
+  
   🕐  المنطقة الزمنية   America/Los_Angeles
+  
   📡  مزود الخدمة       Google LLC
+  
   🏢  المنظمة           Google LLC
+  
   🔢  رقم AS            AS15169 Google LLC
 
   🗺️  خرائط Google:
   https://maps.google.com/?q=37.4056,-122.0775
-
 
 ---
 
@@ -221,6 +229,7 @@ mud_ii.py
 | python-bidi | اتجاه النص العربي |
 | curl | تنزيل الأداة |
 | اتصال بالإنترنت | للاستعلام عن معلومات IP |
+
 </div>
 
 > ⚠️ **ملاحظة:** بدون تثبيت `arabic-reshaper` و `python-bidi` سيظهر النص العربي معكوساً ومتقطعاً.
