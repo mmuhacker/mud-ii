@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌍 IP Info Lookup — أداة معلومات عنوان IP
+# 🌍 IP Info Lookup
+# أداة معلومات عنوان IP
 
 **تعمل على نظام Kali Linux و تطبيق Termux**
 
